@@ -1,0 +1,32 @@
+{
+  "name": "my-growth-blog",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@geist-ui/core": "^2.3.8",
+    "gray-matter": "^4.0.3",
+    "highlight.js": "^11.11.1",
+    "next": "14.1.0",
+    "next-sitemap": "^4.2.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "remark": "^15.0.1",
+    "remark-html": "^16.0.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.16",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5"
+  }
+}

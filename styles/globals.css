@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+/* 保留滚动条美化 */
+::-webkit-scrollbar {
+  width: 8px;
+  background: #e0e7ef;
+}
+::-webkit-scrollbar-thumb {
+  background: #b6c7e3;
+  border-radius: 4px;
+} 
