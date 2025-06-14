@@ -3,7 +3,7 @@ export default function Banner() {
     <div className="w-full bg-gradient-to-r from-blue-400 to-blue-600 py-12 mb-8 relative overflow-hidden">
       <div className="max-w-4xl mx-auto text-center relative z-10">
         <h1 className="text-4xl md:text-5xl font-extrabold text-white mb-2 drop-shadow">即使是最糟糕的时候</h1>
-        <p className="text-lg md:text-xl text-blue-100 mb-4">也要做最好的自己</p>
+        <p className="text-lg md:text-xl text-blue-100 mb-4">也要做最好的自己--加油，吴新洁</p>
         {/* 可加社交图标 */}
       </div>
       {/* SVG 背景装饰，可后续替换为更复杂的科技感图案 */}
