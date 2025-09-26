@@ -8,7 +8,7 @@ export default function AboutPage() {
       <div className="w-full bg-gradient-to-r from-blue-400 to-blue-600 py-8">
         <div className="max-w-2xl mx-auto text-center">
           <h1 className="text-3xl font-bold text-white mb-2">关于我</h1>
-          <p className="text-blue-100">用来激励自己的，老吴</p>
+          <p className="text-blue-100">用来激励自己的</p>
         </div>
       </div>
       <main className="max-w-2xl mx-auto px-4 py-8">
